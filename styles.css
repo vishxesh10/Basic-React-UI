@@ -1,5 +1,4 @@
-/* ===================== */
-/* 🔥 Global Reset */
+
 * {
   margin: 0;
   padding: 0;
@@ -12,8 +11,7 @@ body {
   color: #333;
 }
 
-/* ===================== */
-/* 🔥 Header Styling */
+
 .header {
   display: flex;
   justify-content: space-between;
@@ -61,8 +59,7 @@ body {
 }
 
 
-/* ===================== */
-/* 🔥 Search Bar */
+
 .search {
   padding: 20px;
   display: flex;
@@ -86,8 +83,7 @@ body {
 }
 
 
-/* ===================== */
-/* 🔥 Restaurant Cards */
+
 .res-container {
   display: flex;
   flex-wrap: wrap;
